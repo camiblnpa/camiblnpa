@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-:herb: I'm currently learning JavaScript and JavaScript frameworks. 
-:sparkles: I would like to be a front-end developer and a back-end developer in the future. 
+* :herb:  I'm currently learning **JavaScript** and JavaScript frameworks. 
+* :sparkles:  I would like to be a **front-end** developer and a back-end developer in the future. 
 
 <!--
 **camiblnpa/camiblnpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
