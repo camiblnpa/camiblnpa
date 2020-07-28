@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 * :herb:  I'm currently learning **JavaScript** and JavaScript frameworks. 
 * :sparkles:  I would like to be a **front-end** developer and a back-end developer in the future. 
+
+### My portafolio
+This is my portafolio in [freeCodeCamp](https://www.freecodecamp.org/camilablnpa)
 
 <!--
 **camiblnpa/camiblnpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
